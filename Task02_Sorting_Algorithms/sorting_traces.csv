@@ -1,0 +1,15 @@
+algorithm,pass,array_state,comparisons_so_far,swaps_or_shifts_so_far
+Bubble_Sort,1,"102 105 101 104 103 108",5,4
+Bubble_Sort,2,"102 101 104 103 105 108",9,7
+Bubble_Sort,3,"101 102 103 104 105 108",12,9
+Bubble_Sort,4,"101 102 103 104 105 108",14,9
+Selection_Sort,1,"101 102 108 105 104 103",5,1
+Selection_Sort,2,"101 102 108 105 104 103",9,1
+Selection_Sort,3,"101 102 103 105 104 108",12,2
+Selection_Sort,4,"101 102 103 104 105 108",14,3
+Selection_Sort,5,"101 102 103 104 105 108",15,3
+Insertion_Sort,1,"102 105 108 101 104 103",1,1
+Insertion_Sort,2,"102 105 108 101 104 103",2,1
+Insertion_Sort,3,"101 102 105 108 104 103",5,4
+Insertion_Sort,4,"101 102 104 105 108 103",8,6
+Insertion_Sort,5,"101 102 103 104 105 108",12,9

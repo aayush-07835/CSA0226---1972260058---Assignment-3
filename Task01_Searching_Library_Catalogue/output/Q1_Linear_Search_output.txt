@@ -1,0 +1,20 @@
+=== Trial Catalogue (n = 10, Unsorted) - Linear Search ===
+First   | Key 1305 -> index  0, comparisons = 1
+Middle  | Key 1048 -> index  4, comparisons = 5
+Last    | Key 1402 -> index  9, comparisons = 10
+Missing | Key 1400 -> index -1, comparisons = 10
+
+=== Scaled Linear Search Benchmark ===
+Size       Case         Comparisons    Time(ms)       
+1000       First        1              0.000093       
+1000       Middle       501            0.000286       
+1000       Last         1000           0.000424       
+1000       Missing      1000           0.000379       
+10000      First        1              0.000052       
+10000      Middle       5001           0.001748       
+10000      Last         10000          0.017649       
+10000      Missing      10000          0.003394       
+100000     First        1              0.000042       
+100000     Middle       50001          0.016762       
+100000     Last         100000         0.033428       
+100000     Missing      100000         0.033615       

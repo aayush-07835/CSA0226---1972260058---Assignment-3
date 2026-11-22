@@ -1,0 +1,5 @@
+method,m,n,comparisons,time_ms,extra_space_bytes
+Two_Way_Merge,1000,1000,1999,0.003146,8000
+Concat_and_Qsort,1000,1000,11863,0.059233,8000
+Two_Way_Merge,10000,10000,19999,0.042035,80000
+Concat_and_Qsort,10000,10000,149215,0.527453,80000

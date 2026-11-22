@@ -1,0 +1,5 @@
+=== Task 1: Binary vs Linear Search Benchmark ===
+n =   1000 | Linear avg =   500.05, missing =   1000 | Binary avg =  9.10, missing = 10
+n =  10000 | Linear avg =  5000.50, missing =  10000 | Binary avg = 12.36, missing = 14
+n = 100000 | Linear avg = 50000.05, missing = 100000 | Binary avg = 15.79, missing = 17
+CSV files written: search_results.csv, comparison_analysis.csv

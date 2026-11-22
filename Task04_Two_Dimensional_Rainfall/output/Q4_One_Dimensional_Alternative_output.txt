@@ -1,0 +1,2 @@
+1D Contiguous Mapping (i * 12 + j) -> District 1 Annual Total = 1158.00 mm
+1D Flat 2000x2000 Row-Wise Traversal: 4.2680 ms (sum = 198000000)

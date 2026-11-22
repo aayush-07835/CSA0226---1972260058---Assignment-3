@@ -1,0 +1,4 @@
+=== Task 6 Alternative: char *list[] + qsort() ===
+n =  100 | qsort(char *) -> strcmp calls =    538, time = 0.0111 ms, extra ptr space = 800 bytes
+n =  500 | qsort(char *) -> strcmp calls =   3853, time = 0.0782 ms, extra ptr space = 4000 bytes
+n = 5000 | qsort(char *) -> strcmp calls =  55126, time = 0.7339 ms, extra ptr space = 40000 bytes

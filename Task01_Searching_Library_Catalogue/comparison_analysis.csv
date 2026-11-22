@@ -1,0 +1,4 @@
+array_size,linear_best,linear_avg_found,linear_worst_missing,binary_best,binary_avg_found,binary_worst_missing
+1000,1,500.05,1000,1,9.10,10
+10000,1,5000.50,10000,1,12.36,14
+100000,1,50000.05,100000,1,15.79,17

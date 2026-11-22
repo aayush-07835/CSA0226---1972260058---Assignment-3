@@ -1,0 +1,18 @@
+Length 29 input -> stored len = 29 ("ABCDEFGHIJKLMNOPQRSTUVWX12345")
+Length 30 input -> stored len = 29 ("ABCDEFGHIJKLMNOPQRSTUVWX12345" - 30th char truncated!)
+
+strcmp("Apple", "apple") = -1 ('A'=65 < 'a'=97)
+strcmp_ci("Apple", "apple") = 0
+
+Sorted Names (n = 8, strcmp calls = 28, char copies = 926):
+  [0] 12345678901234567890123456789
+  [1] 123456789012345678901234567890Aarav Sharma
+  [2] Aarav Sharma
+  [3] Aarav Sharma
+  [4] Apple
+  [5] Karthik Subramanian
+  [6] Priya Nair
+  [7] apple
+
+Duplicate Entries Detected (adjacent after sort):
+  Duplicate: "Aarav Sharma" at indices 2 and 3

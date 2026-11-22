@@ -1,0 +1,2 @@
+v =   5000 | Count Array:  0.0049 ms | Linear Search:  0.0695 ms | Sort Votes:   0.3594 ms
+v = 500000 | Count Array:  0.4699 ms | Linear Search:  6.8434 ms | Sort Votes:  39.2610 ms

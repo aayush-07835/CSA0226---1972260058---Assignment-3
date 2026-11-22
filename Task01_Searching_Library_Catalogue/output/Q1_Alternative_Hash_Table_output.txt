@@ -1,0 +1,6 @@
+=== Alternative Methods on 10-Book Trial Catalogue ===
+Hash Table Size = 23 (Load Factor = 0.43)
+Key 1021 -> Hash(slot= 9, probes=1) | Interpolation(idx= 0, probes=1)
+Key 1305 -> Hash(slot=18, probes=2) | Interpolation(idx= 5, probes=2)
+Key 1533 -> Hash(slot=15, probes=1) | Interpolation(idx= 9, probes=1)
+Key 1400 -> Hash(slot=-1, probes=2) | Interpolation(idx=-1, probes=1)

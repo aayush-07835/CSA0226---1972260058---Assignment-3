@@ -1,0 +1,7 @@
+method,votes_v,candidates_c,complexity,time_ms
+Count_Array,5000,12,O(v),0.0049
+Candidate_List_Search,5000,12,O(v*c),0.0695
+Sort_All_Votes,5000,12,O(v log v),0.3594
+Count_Array,500000,12,O(v),0.4699
+Candidate_List_Search,500000,12,O(v*c),6.8434
+Sort_All_Votes,500000,12,O(v log v),39.2610

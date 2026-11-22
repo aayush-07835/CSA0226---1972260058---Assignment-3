@@ -1,0 +1,2 @@
+=== Task 2: Sorting Benchmark (n = 100, 1000, 10000) ===
+Generated comparison_counts.csv and sorting_traces.csv successfully.

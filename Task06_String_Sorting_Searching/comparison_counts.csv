@@ -1,0 +1,7 @@
+method,n_names,strcmp_calls,char_copies,int_or_ptr_swaps,time_ms
+Strcpy_Bubble_Sort,100,4914,111956,0,0.1019
+Index_Bubble_Sort,100,4914,0,2153,0.0703
+Strcpy_Bubble_Sort,500,123319,3095570,0,2.6285
+Index_Bubble_Sort,500,123319,0,59385,1.8397
+Strcpy_Bubble_Sort,5000,12494340,323581232,0,276.5121
+Index_Bubble_Sort,5000,12494340,0,6224757,190.2179

@@ -1,0 +1,5 @@
+test_case,m,n,output_length,is_descending,notes
+Standard_Sample,4,3,7,1,"98 95 91 91 85 80 72"
+One_Empty_List,4,0,4,1,"Copies remaining elements from non-empty array"
+All_Equal_Scores,3,2,5,1,"Preserves descending order with duplicate scores"
+Different_Lengths,5,2,7,1,"Handles unequal campus sizes"

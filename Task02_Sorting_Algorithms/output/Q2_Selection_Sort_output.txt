@@ -1,0 +1,3 @@
+Original: 105 102 108 101 104 103
+Sorted:   101 102 103 104 105 108
+Comparisons = 15, Swaps = 3

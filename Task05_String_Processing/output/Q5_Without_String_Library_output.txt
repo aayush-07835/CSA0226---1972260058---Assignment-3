@@ -1,0 +1,5 @@
+Words: 7
+1 0
+Tab test "Meet	at	the library" -> word_count = 2 (tab '\t' != ' ', so "Meet\tat\tthe" counts as 1 token)
+Uppercase: FEEDBACK 101!
+Reversed:  !101 KCABDEEF

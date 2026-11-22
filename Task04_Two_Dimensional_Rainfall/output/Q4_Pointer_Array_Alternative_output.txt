@@ -1,0 +1,2 @@
+Pointer-Array (double *rows[38]) -> District 1 Total = 1158.00 mm, Pointer Overhead = 304 bytes
+Pointer-Array 2000x2000 Row-Wise Traversal: 3.9844 ms (sum = 198000000)

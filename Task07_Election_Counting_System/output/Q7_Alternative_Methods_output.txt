@@ -1,0 +1,6 @@
+=== Task 7 Alternative Methods Verification ===
+Candidate Aarav  : LinearSearch = 3 | SortRuns = 3
+Candidate Bhavna : LinearSearch = 2 | SortRuns = 2
+Candidate Charan : LinearSearch = 1 | SortRuns = 1
+Candidate Divya  : LinearSearch = 1 | SortRuns = 1
+Invalid Votes     : LinearSearch = 3 | SortRuns = 3

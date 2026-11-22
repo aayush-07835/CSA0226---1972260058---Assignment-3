@@ -1,0 +1,4 @@
+Original: 105 102 108 101 104 103
+Sorted:   101 102 103 104 105 108
+Comparisons = 14, Swaps = 9
+Already Sorted -> Comparisons = 5, Swaps = 0 (early exit)

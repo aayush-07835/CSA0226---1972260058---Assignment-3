@@ -1,0 +1,6 @@
+=== Task 6: Binary Search on Sorted Resident Directory ===
+Query "Aarav Sharma        " -> index =  0, strcmp comparisons = 3
+Query "Karthik Subramanian " -> index =  4, strcmp comparisons = 3
+Query "Vikram Patel        " -> index =  7, strcmp comparisons = 4
+Query "Zoya Khan           " -> index = -1, strcmp comparisons = 4
+Query "Arjun Menon         " -> index = -1, strcmp comparisons = 3

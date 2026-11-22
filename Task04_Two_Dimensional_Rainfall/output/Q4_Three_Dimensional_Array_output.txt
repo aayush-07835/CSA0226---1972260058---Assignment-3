@@ -1,0 +1,4 @@
+=== 3D Rainfall Summary (Years = 3, Districts = 4, Months = 12) ===
+Year 2024 Total across 4 districts: 3420.00 mm (Avg/district = 855.00 mm)
+Year 2025 Total across 4 districts: 3900.00 mm (Avg/district = 975.00 mm)
+Year 2026 Total across 4 districts: 4380.00 mm (Avg/district = 1095.00 mm)

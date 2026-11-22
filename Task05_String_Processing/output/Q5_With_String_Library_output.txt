@@ -1,0 +1,9 @@
+=== Task 5: string.h Comparison ===
+Test 1: wc=7, pal=0 | Upper="  MEET AT  THE LIBRARY AT 5 PM "
+Test 2: wc=0, pal=1 | Upper="   "
+Test 3: wc=0, pal=1 | Upper=""
+Test 4: wc=3, pal=1 | Upper="MADAM, I'M ADAM"
+Test 5: wc=1, pal=0 | Upper="HELLO"
+Test 6: wc=7, pal=1 | Upper="A MAN, A PLAN, A CANAL: PANAMA!"
+Test 7: wc=2, pal=0 | Upper="MEET	AT	THE LIBRARY"
+Recursive reverse of SAVEETHA: AHTEEVAS

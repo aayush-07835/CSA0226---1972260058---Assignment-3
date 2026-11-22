@@ -1,0 +1,2 @@
+m=n= 1000 | Merge comps=  1999 (0.0031 ms) | qsort comps=  11863 (0.0592 ms)
+m=n=10000 | Merge comps= 19999 (0.0420 ms) | qsort comps= 149215 (0.5275 ms)

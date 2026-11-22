@@ -1,0 +1,3 @@
+layout_or_traversal,array_dimensions,time_ms,notes
+2D_Row_Wise,2000x2000,3.9577,Sequential memory access (cache-friendly)
+2D_Column_Wise,2000x2000,21.4763,Strided memory access (16000-byte stride)

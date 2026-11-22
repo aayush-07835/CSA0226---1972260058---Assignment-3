@@ -1,0 +1,3 @@
+In-place merged (A then B): 98 95 91 91 85 80 72 
+Comparisons = 9, Shifts/Moves = 6
+m=n=1000 In-Place -> comps=500500, shifts=499500, time=0.3466 ms
